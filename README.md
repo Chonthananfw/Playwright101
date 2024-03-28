@@ -27,8 +27,7 @@ $npx playwright show-report
 
 ---
 
-Robot Selenium Set up
-# LOCAL
+# Robot Selenium Set up (Local)
 
 1. Install Python 
 
